@@ -1,0 +1,14 @@
+E:\NetCoreProjects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.deps.json
+E:\NetCoreProjects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.json
+E:\NetCoreProjects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.dev.json
+E:\NetCoreProjects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.dll
+E:\NetCoreProjects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.pdb
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csprojAssemblyReference.cache
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csproj.CoreCompileInputs.cache
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cache
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cs
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfoInputs.cache
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfo.cs
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorTargetAssemblyInfo.cache
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.dll
+E:\NetCoreProjects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.pdb
